@@ -6,7 +6,7 @@
 
 ## Workflow🐍
 
-![Untitled](https://github.com/)
+![Untitled](https://github.com/samad-ms/Chest-Cancer-Classification-Using-mlflow-and-DVC/blob/main/research/chest_cancer_project_workflow.svg)
 
 ## 🚀 Training Pipeline
 

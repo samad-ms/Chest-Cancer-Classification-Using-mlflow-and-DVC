@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/433f3d71cf614884a45e1e6c3c30a00c/artifacts
+end_time: 1717327977882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 433f3d71cf614884a45e1e6c3c30a00c
+run_name: popular-mare-454
+run_uuid: 433f3d71cf614884a45e1e6c3c30a00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717327969497
+status: 4
+tags: []
+user_id: abdulsamad

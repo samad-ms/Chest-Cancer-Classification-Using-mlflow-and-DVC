@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/292893c460824938b43f8e9f95b90b20/artifacts
+end_time: 1717328504830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 292893c460824938b43f8e9f95b90b20
+run_name: fun-stag-914
+run_uuid: 292893c460824938b43f8e9f95b90b20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717328496455
+status: 4
+tags: []
+user_id: abdulsamad

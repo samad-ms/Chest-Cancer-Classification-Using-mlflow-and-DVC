@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3cb0ea776a14491d9a59cbf7fbd0bc9f/artifacts
+end_time: 1717327784901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cb0ea776a14491d9a59cbf7fbd0bc9f
+run_name: marvelous-shark-95
+run_uuid: 3cb0ea776a14491d9a59cbf7fbd0bc9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717327776593
+status: 4
+tags: []
+user_id: abdulsamad

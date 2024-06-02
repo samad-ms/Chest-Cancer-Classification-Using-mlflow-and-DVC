@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/634bcc9dbdb946198b1417953659ed21/artifacts
+end_time: 1717328182788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 634bcc9dbdb946198b1417953659ed21
+run_name: bustling-hawk-131
+run_uuid: 634bcc9dbdb946198b1417953659ed21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717328174272
+status: 4
+tags: []
+user_id: abdulsamad

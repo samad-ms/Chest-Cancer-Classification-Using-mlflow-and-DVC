@@ -2,7 +2,7 @@
 
 ## **Problem Statement:**
 
-- The goal of this project is to develop a deep learning model that can use chest CT scan images to predict breast cancer risk and subtype, specifically **adenocarcinoma** of the breast. The model will be trained and tested on a small dataset of chest CT scan images of women with and without **adenocarcinoma** breast cancer. The model will be evaluated based on its accuracy & loss. The expected outcome of this project is to provide a novel and effective method of breast cancer prediction that can help in the early detection and diagnosis of the disease, as well as in the personalized treatment and management of patients.
+- The objective of this project is to develop a deep learning model capable of predicting breast cancer risk and subtype, specifically adenocarcinoma, using chest CT scan images. The model will be trained and tested on a limited dataset comprising chest CT scan images of women diagnosed with adenocarcinoma breast cancer as well as those without the disease. The model's performance will be evaluated based on its accuracy and loss metrics. The anticipated outcome of this project is to introduce a novel and effective method for breast cancer prediction, which can facilitate the early detection and diagnosis of the disease, as well as contribute to the personalized treatment and management of patients.
 
 ## Workflow🐍
 

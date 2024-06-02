@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2972d5b80e4e4abbad5c9edfe6ef9417/artifacts
+end_time: 1717324459082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2972d5b80e4e4abbad5c9edfe6ef9417
+run_name: glamorous-snail-441
+run_uuid: 2972d5b80e4e4abbad5c9edfe6ef9417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717324451279
+status: 4
+tags: []
+user_id: abdulsamad

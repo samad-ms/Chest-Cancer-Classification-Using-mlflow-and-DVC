@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/679ed115ef96422380b577bc0349e1fe/artifacts
+end_time: 1717323708300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 679ed115ef96422380b577bc0349e1fe
+run_name: victorious-croc-260
+run_uuid: 679ed115ef96422380b577bc0349e1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717323700098
+status: 4
+tags: []
+user_id: abdulsamad

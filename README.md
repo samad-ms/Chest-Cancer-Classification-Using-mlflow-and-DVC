@@ -184,11 +184,3 @@ AWS_ECR_LOGIN_URI = demo>>  5663_____2.dkr.ecr.ap-south-1.amazonaws.com
 ECR_REPOSITORY_NAME = simple-app
 
 ```
-
-## About MLflow
-
-**MLflow**
-
-- Its Production Grade
-- Trace all of your expriements
-- Logging & tagging your model

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e89e618a1d664d8e917ee4b4cb8e1010/artifacts
+end_time: 1717323025104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e89e618a1d664d8e917ee4b4cb8e1010
+run_name: bedecked-smelt-310
+run_uuid: e89e618a1d664d8e917ee4b4cb8e1010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717323016342
+status: 4
+tags: []
+user_id: abdulsamad

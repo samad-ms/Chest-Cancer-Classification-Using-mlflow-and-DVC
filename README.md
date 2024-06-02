@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 ### Step 1: Clone the repository
 
 ```bash
-<https://github.com/samad-ms/Chest-Cancer-Classification-Using-mlflow-and-DVC/tree/main>
+<https://github.com/samad-ms/Chest-Cancer-Classification-Using-mlflow-and-DVC.git>
 
 ```
 
